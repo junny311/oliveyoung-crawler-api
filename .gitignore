@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+.env
+
+# Config (Security Risk!)
+db_config.py
