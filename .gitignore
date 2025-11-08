@@ -12,3 +12,11 @@ venv/
 
 # Config (Security Risk!)
 db_config.py
+
+# Generated data and artifacts
+*.json
+*.png
+
+# IDE settings
+.vscode/
+.idea/
